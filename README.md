@@ -39,6 +39,12 @@
   </a>
 </p>
 
+## Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg">
+</picture>
 <p align="center">
   <b>Crafting elegant solutions through clean, efficient, and maintainable code.</b>
 </p>
