@@ -20,7 +20,7 @@
 
 ## Technical & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,csharp,sqlserver,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git,github,vscode" />
 </p>
 
 ---
