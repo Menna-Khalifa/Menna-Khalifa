@@ -23,38 +23,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git,github,vscode" />
 </p>
 
----
-
-## Experience
-### Full-Stack Web Development Trainee  
-**Digital Training Center (DTC), Mansoura University** — 2023–Present  
-- Designed responsive web interfaces using HTML, CSS, JavaScript, Bootstrap, Tailwind, and React.  
-- Implemented dynamic UI components to enhance user experience.  
-- Studied basic PHP, Laravel, and WordPress for backend fundamentals.  
-- Collaborated on real-world projects, maintaining clean, maintainable code with Git.
-
-### .NET Full-Stack Trainee  
-**Digital Egypt Pioneers Initiative (DEPI Round 3)** — Jun 2025–Dec 2025  
-- Built front-end apps with C#, Windows Forms, and MVC architecture.  
-- Learned backend fundamentals with ASP.NET Core, Razor Pages, and SQL Server.  
-- Developed CRUD operations, validations, and interactive UIs.  
-
-### Freelance Front-End Developer  
-**2025–Present**  
-- Developed landing pages, login systems, and small web apps with HTML, CSS, JS, and React.  
-- Collaborated with clients to deliver functional and responsive software.
-
----
-
-## Projects
-- **[Bookify – Hotel Reservation System](https://github.com/Menna-Khalifa/Hotel_Reservation_System)** – Front-End Developer  
-  Built responsive interfaces, interactive booking pages, and implemented clean UI/UX.  
-
-- **Veterinary Clinic Management System** – Back-End Developer  
-  Desktop app in C# Windows Forms + SQL Server with CRUD operations and validations.  
-
-- **Dental Clinic Reservation System** – Front-End Developer  
-  Web app with responsive interfaces, booking workflow, and cross-browser compatibility.
 
 ---
 
