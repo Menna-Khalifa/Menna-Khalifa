@@ -20,10 +20,16 @@
 
 ## Technical & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,csharp,sqlserver,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git,github,vscode" />
 </p>
 
 ---
+## Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg">
+</picture>
 
 ## Connect
 <p align="center">
