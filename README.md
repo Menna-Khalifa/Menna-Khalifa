@@ -34,35 +34,7 @@
 
 
 ---
-## Activity
-<p align="center">
-  <svg width="360" height="70" viewBox="0 0 360 70">
-    <!-- Monday -->
-    <circle cx="30" cy="35" r="20" fill="lightgray">
-      <animate attributeName="fill" values="lightgray;#34d399;lightgray" dur="1.5s" begin="0s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Tuesday -->
-    <circle cx="90" cy="35" r="20" fill="lightgray">
-      <animate attributeName="fill" values="lightgray;#22c55e;lightgray" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Wednesday -->
-    <circle cx="150" cy="35" r="20" fill="lightgray">
-      <animate attributeName="fill" values="lightgray;#16a34a;lightgray" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Thursday -->
-    <circle cx="210" cy="35" r="20" fill="lightgray">
-      <animate attributeName="fill" values="lightgray;#4ade80;lightgray" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Friday -->
-    <circle cx="270" cy="35" r="20" fill="lightgray">
-      <animate attributeName="fill" values="lightgray;#22c55e;lightgray" dur="1.5s" begin="1.2s" repeatCount="indefinite"/>
-    </circle>
-    <!-- Saturday -->
-    <circle cx="330" cy="35" r="20" fill="lightgray">
-      <animate attributeName="fill" values="lightgray;#86efac;lightgray" dur="1.5s" begin="1.5s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
-</p>
+## Activity <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg"> <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg"> </picture>
 
 
 ## Connect
