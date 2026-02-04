@@ -1,35 +1,69 @@
-<h1 align="center">Menna Ibrahem Khalifa</h1>
+<h1 align="center"> Menna Ibrahem Khalifa </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2600&pause=900&center=true&vCenter=true&width=760&lines=Frontend+Developer+%7C+React+Specialist;Building+Responsive+&+Interactive+UI;Clean+&+Maintainable+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=F75C7E&center=true&vCenter=true&width=800&lines=Passionate+Frontend+Engineer;Crafting+Modern+React+Interfaces;Turning+Ideas+Into+Smooth+User+Experiences" />
 </p>
 
 <p align="center">
-  Front-End Developer specialized in React and modern web technologies, creating responsive, interactive, and user-friendly applications.
+  Enthusiastic Frontend Engineer focused on building modern, scalable, and visually engaging web applications using React and cutting-edge technologies. Dedicated to delivering seamless user experiences and clean, efficient code.
 </p>
+
 
 ---
 
-## Focus
-- Responsive & interactive UI development with React
-- Component-based architecture & state management
-- Clean, maintainable, and efficient code
-- UI/UX design & prototyping (Figma)
+## Core Expertise
+- Designing and developing responsive, dynamic, and interactive web interfaces using React.
+- Leveraging component-driven architecture and effective state management strategies.
+- Writing clean, scalable, and maintainable code following best practices.
+- Crafting intuitive UI/UX designs and prototypes using Figma to enhance user engagement.
 
 ---
 
 ## Technical & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,git,github,vscode" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+
 
 ---
 ## Activity
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hazem7any/Hazem7any/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <svg width="360" height="70" viewBox="0 0 360 70">
+    <!-- Monday -->
+    <circle cx="30" cy="35" r="20" fill="lightgray">
+      <animate attributeName="fill" values="lightgray;#34d399;lightgray" dur="1.5s" begin="0s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Tuesday -->
+    <circle cx="90" cy="35" r="20" fill="lightgray">
+      <animate attributeName="fill" values="lightgray;#22c55e;lightgray" dur="1.5s" begin="0.3s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Wednesday -->
+    <circle cx="150" cy="35" r="20" fill="lightgray">
+      <animate attributeName="fill" values="lightgray;#16a34a;lightgray" dur="1.5s" begin="0.6s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Thursday -->
+    <circle cx="210" cy="35" r="20" fill="lightgray">
+      <animate attributeName="fill" values="lightgray;#4ade80;lightgray" dur="1.5s" begin="0.9s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Friday -->
+    <circle cx="270" cy="35" r="20" fill="lightgray">
+      <animate attributeName="fill" values="lightgray;#22c55e;lightgray" dur="1.5s" begin="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Saturday -->
+    <circle cx="330" cy="35" r="20" fill="lightgray">
+      <animate attributeName="fill" values="lightgray;#86efac;lightgray" dur="1.5s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
+</p>
+
 
 ## Connect
 <p align="center">
@@ -45,5 +79,5 @@
 </p>
 
 <p align="center">
-  <b>Crafting elegant solutions through clean, efficient, and maintainable code.</b>
+  <b>Engineering robust, scalable, and maintainable code to deliver high-quality software solutions.</b>
 </p>
